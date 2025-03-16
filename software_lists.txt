@@ -1,0 +1,19 @@
+vim -- text editor
+git -- github cli tool
+firefox -- for browser 
+kitty -- for terminal
+feh -- for image viewer
+nitrogen -- for wallpaper
+ttf-font-awesome -- for symbols
+thunar -- for file manager
+maim -- for screenshot
+xdotool -- for screenshot
+xclip -- for screenshot
+guvcview -- for webcam
+obs -- for screenrecording
+vlc -- for media player
+mpv -- for video player
+xcompmgr -- for composite
+redshift -- for eyes
+vscode -- for coding stuff
+telegram-desktop -- for chatting purpose

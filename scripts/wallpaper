@@ -1,0 +1,7 @@
+#!/bin/bash
+
+while true
+do
+	feh --no-fehbg --bg-fill --randomize ~/Pictures/Nature/*
+	sleep 10m
+done
